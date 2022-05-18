@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices
+https://www.econ.uzh.ch/en/people/faculty/wolf/publications.html
+https://www.econ.uzh.ch/dam/jcr:ffffffff-935a-b0d6-0000-00007f64e5b9/cov1para.m.zip

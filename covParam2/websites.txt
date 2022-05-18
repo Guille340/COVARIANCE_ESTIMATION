@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/Estimation_of_covariance_matrices
+http://ledoit.net/cov2para.m

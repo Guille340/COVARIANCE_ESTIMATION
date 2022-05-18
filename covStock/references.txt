@@ -1,0 +1,3 @@
+Ledoit, O., and Wolf, M. (2002). "Improved estimation of the covariance matrix
+   of stock returns with an application to portfolio selection", Journal of
+   Empirical Finance, 10, 603-621.

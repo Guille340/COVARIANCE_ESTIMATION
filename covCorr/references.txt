@@ -1,0 +1,2 @@
+Ledoit, O., and Wolf, M. (2003) "Honey, I shrink the sample covariance matrix".
+   

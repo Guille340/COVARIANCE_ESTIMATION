@@ -1,0 +1,2 @@
+Ledoit, O., and Wolf, M. (2004) "A Well-Conditioned Estimator for Large-
+   Dimensional Matrices", Journal of Multivariate Analysis, 88, 365-411.
